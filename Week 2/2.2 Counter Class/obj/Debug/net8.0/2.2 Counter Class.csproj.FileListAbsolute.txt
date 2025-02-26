@@ -1,0 +1,14 @@
+D:\Coding\COS20007\W2\2.2 Counter Class\bin\Debug\net8.0\2.2 Counter Class.exe
+D:\Coding\COS20007\W2\2.2 Counter Class\bin\Debug\net8.0\2.2 Counter Class.deps.json
+D:\Coding\COS20007\W2\2.2 Counter Class\bin\Debug\net8.0\2.2 Counter Class.runtimeconfig.json
+D:\Coding\COS20007\W2\2.2 Counter Class\bin\Debug\net8.0\2.2 Counter Class.dll
+D:\Coding\COS20007\W2\2.2 Counter Class\bin\Debug\net8.0\2.2 Counter Class.pdb
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\2.2 Counter Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\2.2 Counter Class.AssemblyInfoInputs.cache
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\2.2 Counter Class.AssemblyInfo.cs
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\2.2 Counter Class.csproj.CoreCompileInputs.cache
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\2.2 Counter Class.dll
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\refint\2.2 Counter Class.dll
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\2.2 Counter Class.pdb
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\2.2 Counter Class.genruntimeconfig.cache
+D:\Coding\COS20007\W2\2.2 Counter Class\obj\Debug\net8.0\ref\2.2 Counter Class.dll

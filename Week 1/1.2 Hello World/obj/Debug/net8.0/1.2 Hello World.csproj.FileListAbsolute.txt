@@ -1,0 +1,14 @@
+D:\Coding\COS20007\W1\1.2 Hello World\bin\Debug\net8.0\1.2 Hello World.exe
+D:\Coding\COS20007\W1\1.2 Hello World\bin\Debug\net8.0\1.2 Hello World.deps.json
+D:\Coding\COS20007\W1\1.2 Hello World\bin\Debug\net8.0\1.2 Hello World.runtimeconfig.json
+D:\Coding\COS20007\W1\1.2 Hello World\bin\Debug\net8.0\1.2 Hello World.dll
+D:\Coding\COS20007\W1\1.2 Hello World\bin\Debug\net8.0\1.2 Hello World.pdb
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\1.2 Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\1.2 Hello World.AssemblyInfoInputs.cache
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\1.2 Hello World.AssemblyInfo.cs
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\1.2 Hello World.csproj.CoreCompileInputs.cache
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\1.2 Hello World.dll
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\refint\1.2 Hello World.dll
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\1.2 Hello World.pdb
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\1.2 Hello World.genruntimeconfig.cache
+D:\Coding\COS20007\W1\1.2 Hello World\obj\Debug\net8.0\ref\1.2 Hello World.dll
