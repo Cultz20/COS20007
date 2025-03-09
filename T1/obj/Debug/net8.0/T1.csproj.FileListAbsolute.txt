@@ -1,0 +1,14 @@
+D:\Coding\COS20007\Portfolio_Codes\T1\bin\Debug\net8.0\T1.exe
+D:\Coding\COS20007\Portfolio_Codes\T1\bin\Debug\net8.0\T1.deps.json
+D:\Coding\COS20007\Portfolio_Codes\T1\bin\Debug\net8.0\T1.runtimeconfig.json
+D:\Coding\COS20007\Portfolio_Codes\T1\bin\Debug\net8.0\T1.dll
+D:\Coding\COS20007\Portfolio_Codes\T1\bin\Debug\net8.0\T1.pdb
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\T1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\T1.AssemblyInfoInputs.cache
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\T1.AssemblyInfo.cs
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\T1.csproj.CoreCompileInputs.cache
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\T1.dll
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\refint\T1.dll
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\T1.pdb
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\T1.genruntimeconfig.cache
+D:\Coding\COS20007\Portfolio_Codes\T1\obj\Debug\net8.0\ref\T1.dll
