@@ -1,0 +1,4 @@
+D:\Coding\COS20007\Portfolio_Codes\Week 2\2.4 Iteration 1\obj\Debug\net8.0\2.4 Iteration 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\COS20007\Portfolio_Codes\Week 2\2.4 Iteration 1\obj\Debug\net8.0\2.4 Iteration 1.AssemblyInfoInputs.cache
+D:\Coding\COS20007\Portfolio_Codes\Week 2\2.4 Iteration 1\obj\Debug\net8.0\2.4 Iteration 1.AssemblyInfo.cs
+D:\Coding\COS20007\Portfolio_Codes\Week 2\2.4 Iteration 1\obj\Debug\net8.0\2.4 Iteration 1.csproj.CoreCompileInputs.cache

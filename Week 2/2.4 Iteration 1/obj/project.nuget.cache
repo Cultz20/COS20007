@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOSGJ87PReM=",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\COS20007\\Portfolio_Codes\\Week 2\\2.4 Iteration 1\\2.4 Iteration 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhtua\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\nhtua\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\nhtua\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\nhtua\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.12\\microsoft.netcore.app.host.win-x64.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
